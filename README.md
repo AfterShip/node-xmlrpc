@@ -15,7 +15,7 @@ method responses, or as both.
 ### To Install
 
 ```bash
-npm install xmlrpc
+npm install @aftership/xmlrpc
 ```
 
 ### To Use

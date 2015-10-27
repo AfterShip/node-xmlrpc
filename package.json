@@ -1,16 +1,16 @@
-{ "name" : "xmlrpc"
+{ "name" : "@aftership/xmlrpc"
 , "description" : "A pure JavaScript XML-RPC client and server."
 , "keywords" : [ "xml-rpc", "xmlrpc", "xml", "rpc" ]
 , "version" : "1.2.0"
 , "preferGlobal" : false
-, "homepage" : "https://github.com/baalexander/node-xmlrpc"
+, "homepage" : "https://github.com/aftership/node-xmlrpc"
 , "author" : "Brandon Alexander <baalexander@gmail.com> (https://github.com/baalexander)"
 , "repository" : {
     "type" : "git"
-  , "url" : "git://github.com/baalexander/node-xmlrpc.git"
+  , "url" : "git://github.com/aftership/node-xmlrpc.git"
   }
 , "bugs" : {
-    "url" : "https://github.com/baalexander/node-xmlrpc/issues"
+    "url" : "https://github.com/aftership/node-xmlrpc/issues"
   }
 , "directories" : {
     "lib" : "./lib"
